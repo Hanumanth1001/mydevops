@@ -1,1 +1,2 @@
 # mydevops
+yum info firefox
