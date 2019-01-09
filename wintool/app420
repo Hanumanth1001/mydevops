@@ -1,0 +1,14 @@
+
+ hostname
+app401b
+[umsmon@app401b umsmon]$ uptime
+ 02:56:03  up 125 days, 2 min,  1 user,  load average: 0.02, 0.15, 1.12
+[umsmon@app401b umsmon]$  netstat -i
+Kernel Interface table
+Iface       MTU Met    RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+eth0       1500   0 1769410831      0      0      0 1539115685      0      0      0 BMRU
+eth1       1500   0 863370772      0      0      0 1147160705      0      0      0 BMRU
+eth1:0     1500   0  3179143      0      0      0        0      0      0      0 BMRU
+eth2       1500   0 21382405      0      0      0 22404793      0      0      0 BMRU
+eth3       1500   0  3179143      0      0      0        0      0      0      0 BMRU
+lo        16436   0 11861163      0      0      0 11861163      0      0      0 LRU
