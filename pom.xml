@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ua.pp.krotov</groupId>
-  <artifactId>FirstWebDriverTest</artifactId>
+  <artifactId>SecondWebDriverTest</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>FirstWebDriverTest</name>
